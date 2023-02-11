@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("Hello mandarine!");
-        System.out.println("Hello mandarinelio!");
+	int a = 5 + 5;
+	int b = 5 + 5;
     }
 }
