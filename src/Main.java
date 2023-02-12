@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello mandarine!");
         int a = 5 + 5;
         int b = 5 + 5;
-        System.out.println("Test");
+        System.out.println("Test2");
     }
 }
