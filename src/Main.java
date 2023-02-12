@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello mandarine!");
         int a = 5 + 5;
         int p = 1 + 1;
+        System.out.println("SoftUni is cool place!");
         int b = 5 + 5;
         System.out.println("Test3");
         boolean c = true;
